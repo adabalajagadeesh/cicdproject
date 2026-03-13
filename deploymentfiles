@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: jagadeeshdockerhub11/batch13:5
+        image: jagadeeshdockerhub11/batch13:xyz
         ports:
         - containerPort: 8080
